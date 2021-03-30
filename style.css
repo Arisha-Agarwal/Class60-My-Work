@@ -1,0 +1,19 @@
+body{
+    text-align:center;
+    background:linear-gradient(#fc035e 0%,#f8fc00 100%)
+}
+.headings{
+    font-size:80px;
+    font-family:"ranchers", cursive;
+    color:darkgreen;
+}
+.line{
+    width:100px;
+    height:10px;
+    margin:20px auto;
+    background-color:black;
+}
+.ok{
+   height:300px;
+   width:300px;
+}
